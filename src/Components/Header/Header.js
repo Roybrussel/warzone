@@ -6,7 +6,7 @@ import { Container, Image } from "react-bootstrap";
 const Header = () => {
   return (
     <Container>
-      <Image src="/images/warzone-img.png" className="header-img" fluid />
+      <div className="header-img"></div>
     </Container>
   );
 };

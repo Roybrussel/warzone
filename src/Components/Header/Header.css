@@ -1,1 +1,7 @@
-.header-img {}
+.header-img {
+    background-image: url(../../public/images/warzone-img.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 600px;
+}
